@@ -14,7 +14,7 @@ The Time-Series Forecasting challenge is centered around predicting future data 
 
 ## Repository Structure
 
-- **Image_Classification_Challenge/**
+- **ImageClassification/**
   - Contains a Python Notebook and the documentation related to the Image Classification challenge.
-- **Time_Series_Forecasting_Challenge/**
+- **TimeSeriesForecasting/**
   - Includes a Phython Notebook and the documentation related to the Time-Series Forecasting challenge.
